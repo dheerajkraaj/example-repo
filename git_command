@@ -1,0 +1,17 @@
+mkdir = make directory
+mkdir <folder name>
+
+to change directory-:
+cd <folder name>/
+
+
+CTRL+L for clear terminal window
+
+ls -la for listing
+
+git status for check git status
+
+git add <File Name> to add file in git 
+
+git commit -m "MESSAGE"
+
