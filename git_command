@@ -15,3 +15,6 @@ git add <File Name> to add file in git
 
 git commit -m "MESSAGE"
 
+git diff <file names>
+
+new code modified
